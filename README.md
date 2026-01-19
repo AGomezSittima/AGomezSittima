@@ -17,33 +17,40 @@ Outside of work, I like to **experiment with modern technologies through persona
 
 - 🎓 Bachelor's Degree in Software Engineering from **Complutense University of Madrid**
 - 💼 Professional experience in **web development** and **data migration projects**
-- 🤝 Strong team player with a high ability to adapt to changing project needs
 - 🌍 Languages: **Spanish (Native)**, **English (B2 – Upper Intermediate)**
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**
-- JavaScript / TypeScript
-- Python
-- C#, C++, Java
+### 🎨 Frontend
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" title="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40" title="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="40" title="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="40" title="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="40" title="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" height="40" title="Astro" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" height="40" title="Bootstrap" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="40" title="Tailwind CSS" />
+</p>
 
-**Web Technologies**
-- HTML, CSS
-- Bootstrap, Tailwind CSS
-- React, Next.js, Astro
-- Node.js
+### ⚙️ Backend
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" title="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="40" title="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40" title="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="40" title="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="40" title="SQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="40" title="MongoDB" />
+</p>
 
-**Databases**
-- SQL
-- MongoDB
-
-**Tools & Platforms**
-- Git & GitHub (GitHub Actions)
-- Visual Studio Code
-- Figma
-- Unity
+### 🎮 Game Development
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" height="40" title="Unity" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="40" title="C# (Unity)" />
+</p>
 
 ---
 
