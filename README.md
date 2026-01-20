@@ -54,44 +54,6 @@ Outside of work, I like to **experiment with modern technologies through persona
 
 ---
 
-## 💼 Experience
-
-### **Freelance – Front End Developer**  
-**SKY Tecnología** | *04/2025 – Present*
-
-- Front-end development support for multiple company products  
-- **Hospital Management System**
-  - Developed the user module front end and integrated it with an existing backend
-  - Built both front end and back end for the administration module, handling full CRUD operations  
-  - **Tech:** TypeScript, Next.js 14, Tailwind CSS, Python
-
-- **Inventory Management System**
-  - Adapted an existing web application for proper mobile visualization  
-  - **Tech:** HTML (Jinja), Bootstrap, JavaScript
-
----
-
-### **Software Engineer**  
-**NTT DATA** | *04/2023 – 04/2025*
-
-- Started as an intern and progressed to Software Engineer in a **data migration project**
-- Performed data quality analysis, cleaning, and migration
-- Developed a custom tool to transform source system data into the target system
-- Wrote technical documentation and trained other developers
-- Configured and optimized migration processes, significantly improving performance  
-- **Tech:** Python 3, pandas, Temenos Accelerator, Excel, VBA
-
----
-
-## 🚀 Interests
-
-- Exploring and testing **modern frameworks and tools**
-- Building **personal projects** to learn and experiment
-- **Game development** using Unity
-- Writing clean, maintainable, and well-documented code
-
----
-
 ## 📫 Get in Touch
 
 - 🌐 Website: [agomezsittima.dev](https://agomezsittima.dev/en/)
