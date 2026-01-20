@@ -1,4 +1,4 @@
-# Hi, I'm Álvaro 👋
+## ![header](https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Hi!%20I'm%20Álvaro&reversal=true&fontAlign=50&fontSize=55&textBg=false)
 
 I'm a **Software Engineer** with experience in **front-end and full-stack development**, currently working as a **Freelance Front End Developer**. I enjoy building clean, efficient solutions and collaborating with others to turn ideas into real products.
 
@@ -8,8 +8,8 @@ Outside of work, I like to **experiment with modern technologies through persona
 
 ## 📊 GitHub Stats
 
-![Álvaro's GitHub stats](https://github-readme-stats.vercel.app/api?username=AGomezSittima&show_icons=true&hide_title=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AGomezSittima&layout=compact)
+![Álvaro's GitHub stats](https://github-readme-stats.vercel.app/api?username=AGomezSittima&show_icons=true&hide_title=true&theme=rose_pine)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AGomezSittima&layout=compact&theme=rose_pine)
 
 ---
 
@@ -63,3 +63,5 @@ Outside of work, I like to **experiment with modern technologies through persona
 ---
 
 ⭐️ Feel free to check out my repositories and reach out if you'd like to collaborate!
+
+![Snake animation](https://github.com/AGomezSittima/AGomezSittima/blob/output/github-contribution-grid-snake.svg)
