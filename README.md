@@ -6,13 +6,6 @@ Outside of work, I like to **experiment with modern technologies through persona
 
 ---
 
-## 📊 GitHub Stats
-
-![Álvaro's GitHub stats](https://github-readme-stats.vercel.app/api?username=AGomezSittima&show_icons=true&hide_title=true&theme=rose_pine)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AGomezSittima&layout=compact&theme=rose_pine)
-
----
-
 ## 👨‍💻 About Me
 
 - 🎓 Bachelor's Degree in Software Engineering from **Complutense University of Madrid**
@@ -56,12 +49,16 @@ Outside of work, I like to **experiment with modern technologies through persona
 
 ## 📫 Get in Touch
 
-- 🌐 Website: [agomezsittima.dev](https://agomezsittima.dev/en/)
-- 💼 LinkedIn: [linkedin.com/in/agomezsittima](https://www.linkedin.com/in/agomezsittima)
-- 📧 Email: [hello@agomezsittima.dev](mailto:hello@agomezsittima.dev)
+<p>
+  <a href="mailto:hello@agomezsittima.dev"><img src="https://img.shields.io/badge/Email-hello%40agomezsittima.dev-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://agomezsittima.dev/en/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-agomezsittima-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
 
 ---
 
-⭐️ Feel free to check out my repositories and reach out if you'd like to collaborate!
+## 📊 GitHub Stats
 
-![Snake animation](https://github.com/AGomezSittima/AGomezSittima/blob/output/github-contribution-grid-snake.svg)
+![Álvaro's GitHub stats](https://github-readme-stats.vercel.app/api?username=AGomezSittima&show_icons=true&hide_title=true&theme=rose_pine)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AGomezSittima&layout=compact&theme=rose_pine)
+
+⭐️ Feel free to check out my repositories and reach out if you'd like to collaborate!
